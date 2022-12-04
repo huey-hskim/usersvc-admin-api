@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.idea
+*.iml
+
+credentials_d
+
+node_modules
+
+config.local.js

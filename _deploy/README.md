@@ -1,0 +1,1 @@
+Move the .github folder to the root when the server is ready.

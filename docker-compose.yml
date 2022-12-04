@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  usersvc-admin-api:
+    image: build-usersvc-admin-api
+    ports:
+      - 8087:8087

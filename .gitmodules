@@ -1,0 +1,3 @@
+[submodule "usersvc-common"]
+	path = usersvc-common
+	url = git@github.com:huey-hskim/usersvc-common.git

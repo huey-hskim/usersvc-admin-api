@@ -1,0 +1,14 @@
+{
+  "apps": [{
+    "name": "usersvc-admin-api",
+    "script": "server.js",
+    "env": {
+      "NODE_ENV": "production"
+    },
+    "cwd": "",
+    "instances": 1,
+    "exec_mode": "cluster",
+    "error_file": "../logs/usersvc-admin-api.stderr.log",
+    "out_file": "../logs/usersvc-admin-api.log"
+  }]
+}

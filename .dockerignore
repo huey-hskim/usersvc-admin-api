@@ -1,0 +1,12 @@
+.DS_Store
+
+*.iml
+.idea
+
+.github
+
+Dockerfile
+
+node_modules
+package-lock.json
+config.local.js
